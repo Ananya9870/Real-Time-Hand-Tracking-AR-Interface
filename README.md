@@ -70,7 +70,7 @@ pip install opencv-python mediapipe numpy
 3. Run the project
 
 ```bash
-python main.py
+python first.py
 ```
 
 > Make sure your webcam is connected and accessible.
